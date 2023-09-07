@@ -1,0 +1,2 @@
+LBNL/ESD's Stephen Chan shows the power, data, and communication infrastructure 
+of a portable eddy covariance system to AmeriFlux Data Workshop participants.

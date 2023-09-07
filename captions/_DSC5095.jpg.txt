@@ -1,0 +1,2 @@
+LBNL/DST's Cristina Poindexter measures the distance between sensors at an AmeriFlux climate tower site in California's 
+Sacramento-San Joaquin River Delta. Sensor distance is an essential factor in eddy covariance calculation.

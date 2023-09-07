@@ -1,0 +1,2 @@
+Eddy covariance ascertains the exchange rate of CO2 across the interface between the atmosphere and a plant canopy 
+by measuring the covariance between the fluctuations in vertical wind velocity and CO2 mixing ratio. [Baldocchi]

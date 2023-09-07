@@ -1,0 +1,36 @@
+-------------------------------------------------
+VUE is a QT based Python slideshow viewer roughly
+modeled after feh, a imlib2 based image viewer.
+-------------------------------------------------
+Dependencies:
+     PyQt4
+     Poppler-Qt4
+     Python-poppler-qt4
+     SIP4
+     Python 2.7x
+
+To terminate VUE in full-screen mode, press the ESC key.
+
+positional arguments:
+  path                  Path to read images
+
+optional arguments:
+  -h, --help            show this help message and exit
+  -v , --version        show program's version number and exit
+  -V, --verbose         Verbose mode
+  -F, --fullscreen      Full screen mode
+  -x, --borderless      Create borderless display window
+  -D SLIDESHOW_DELAY, --slideshow-delay SLIDESHOW_DELAY
+                        For slideshow mode, wait float seconds between automatically changing slides. Useful for presentations.
+  -f FONTSIZE, --fontsize FONTSIZE
+                        Font size for captions
+  --fade-effects        Add fading effects when transitioning
+  --cycle-once          Exit after one loop through the slideshow
+
+
+On Mac, if homebrew is installed simply use the following commands to resolve dependencies:
+- brew install python
+- brew install qt4
+- brew install sip
+- brew install pyqt
+- brew install poppler --with-qt4 --enable-xpdf-headers

@@ -1,0 +1,2 @@
+As part of LBNL/ESD's Sustainable Systems Scientific Focus Area 2.0 project, the Rifle Data Management 
+System will enable investigations and simulations of genome through watershed scale processes.
